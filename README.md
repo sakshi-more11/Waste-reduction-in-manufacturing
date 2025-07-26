@@ -29,6 +29,17 @@ This project is an **AI-powered Streamlit web app** that helps manufacturing ind
 - 📊 Dynamic charts and interactive plots  
 
 ---
+<img width="1919" height="861" alt="Screenshot 2025-07-26 200319" src="https://github.com/user-attachments/assets/7950593b-d94c-4451-97ee-150064c06c89" />
+Users can simply upload a CSV file containing manufacturing data to begin the analysis.
+📁 Supports CSV file uploads (up to 200MB)
+<img width="1919" height="716" alt="Screenshot 2025-07-26 200355" src="https://github.com/user-attachments/assets/63ab148b-6bc3-45f1-9664-b27032677bb2" />
+Based on the uploaded data, the system generates smart, actionable suggestions to help minimize waste in manufacturing processes:
+<img width="1904" height="624" alt="Screenshot 2025-07-26 200513" src="https://github.com/user-attachments/assets/002714b6-4325-40e6-b6dc-c178be1a4e1c" />
+This module lets users evaluate the financial and environmental impact of reducing key manufacturing factors like Pollutants_Emitted.
+Select a feature and set a reduction percentage.
+Instantly see estimated revenue savings and waste reduction.
+Export results as a PDF report.
+
 
 ## 🏗 How to Set Up Locally  
 
